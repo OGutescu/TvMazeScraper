@@ -9,19 +9,21 @@ This application consist of 2 parts:
 - a REST API that retrieves that data
 
 This is the api endpoint: <host>/api/tvshows
+   
 Parameters: 
-<param name="page">optional, default is 1 - is the page number</param>
-<param name="pageSize">optional, default is 25</param>
-<returns>
-   200 ok - list of tv shows with their cast
-   400 BadRequest - if the parameters are not valid
-   503 ServiceUnavailable - the db is not created
-   500 InternalServerError - something went wrong with the call
-</returns>
+- page - optional, default is 1 - is the page number
+- pageSize - optional, default is 25
+
+Returns:
+  - 200 ok - list of tv shows with their cast
+  - 400 BadRequest - if the parameters are not valid
+  - 503 ServiceUnavailable - the db is not created
+  - 500 InternalServerError - something went wrong with the call
+
 Some examples of usage with parameters:
-     route: /api/tvshows
-     route: /api/tvshows/2
-     route: /api/tvshows/2/30
+ - route: /api/tvshows
+ - route: /api/tvshows/2
+ - route: /api/tvshows/2/30
      
 The result is a json object like this:
  [{
