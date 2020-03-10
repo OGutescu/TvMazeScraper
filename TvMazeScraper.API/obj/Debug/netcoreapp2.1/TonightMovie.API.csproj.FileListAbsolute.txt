@@ -1,0 +1,14 @@
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\obj\Debug\netcoreapp2.1\TonightMovie.API.csprojAssemblyReference.cache
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\obj\Debug\netcoreapp2.1\TonightMovie.API.csproj.CoreCompileInputs.cache
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\obj\Debug\netcoreapp2.1\TonightMovie.API.RazorAssemblyInfo.cache
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\obj\Debug\netcoreapp2.1\TonightMovie.API.RazorAssemblyInfo.cs
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\obj\Debug\netcoreapp2.1\TonightMovie.API.AssemblyInfoInputs.cache
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\obj\Debug\netcoreapp2.1\TonightMovie.API.AssemblyInfo.cs
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\bin\Debug\netcoreapp2.1\TonightMovie.API.deps.json
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\bin\Debug\netcoreapp2.1\TonightMovie.API.runtimeconfig.json
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\bin\Debug\netcoreapp2.1\TonightMovie.API.runtimeconfig.dev.json
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\bin\Debug\netcoreapp2.1\TonightMovie.API.dll
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\bin\Debug\netcoreapp2.1\TonightMovie.API.pdb
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\obj\Debug\netcoreapp2.1\TonightMovie.API.RazorTargetAssemblyInfo.cache
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\obj\Debug\netcoreapp2.1\TonightMovie.API.dll
+I:\things\Work\Netherlands\7 OGD\TonightMovie\TonightMovie\obj\Debug\netcoreapp2.1\TonightMovie.API.pdb

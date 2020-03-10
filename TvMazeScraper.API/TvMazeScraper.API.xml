@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TvMazeScraper.API</name>
+    </assembly>
+    <members>
+        <member name="M:TvMazeScraper.API.Controllers.TvShowsController.Get(System.Int32,System.Int32)">
+            <summary>
+            Gets a list of tv shows with their cast
+            </summary>
+            <param name="page">optional, default is 1 - is the page number</param>
+            <param name="pageSize">optional, default is 25</param>
+            <returns>
+            200 ok - list of tv shows with their cast
+            400 BadRequest - if the parameters are not valid
+            503 ServiceUnavailable - the db is not created
+            500 something went wrong with the call
+            </returns>
+            <example>
+                route: /api/tvshows
+                route: /api/tvshows/2
+                route: /api/tvshows/2/30
+            Returns a json object like this:
+            [{
+                "id": 1,
+                "name": "Under the Dome",
+                "cast": [{
+                      "id": 7,
+                      "name": "Mackenzie Lintz",
+                      "birthday": "1996-11-22"
+                  },
+                  {
+                      "id": 5,
+                      "name": "Colin Ford",
+                      "birthday": "1996-09-12"
+                  }
+             }]
+            </example>
+        </member>
+    </members>
+</doc>
